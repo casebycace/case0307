@@ -1,0 +1,6 @@
+1.numara din 5 in 5
+2.sirul de litere ca importanta alfabetica
+3.numarul care apare de cele mai multe ori si afisarea lui de cate ori apare
+4.numarul maxim de cifre ordonate intr-un vector dat
+5.ordonarea unui vector
+6.numarul care apare de cele mai multe ori
